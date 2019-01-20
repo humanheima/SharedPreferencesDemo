@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPreferencesDemo</string>
+    <string name="put_a_string">put a string</string>
+    <string name="get_a_string">get a string</string>
 </resources>
